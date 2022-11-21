@@ -48,18 +48,12 @@
     color: #3751FF;
 }
 
-.overview {
-    font-size: 32px;
-}
-
 @media screen and (max-width: 768px) {
-    .overview {
-        font-size: 20px;
-    }
     .leftbar {
         width: 120px !important;
     }
 }
+
 /* 
 @media screen and (min-width: 769px) and (max-width: 1200px) {
     .overview {
